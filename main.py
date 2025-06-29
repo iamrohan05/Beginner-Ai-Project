@@ -31,3 +31,5 @@ def main_function():
 
 if __name__ =="__main__":
     main_function()
+
+    # To run the code use uv run main.py in your terminal
